@@ -1,0 +1,1 @@
+# AngularPatterns-Lightweight-Injection-Token
